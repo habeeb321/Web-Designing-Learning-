@@ -207,14 +207,44 @@ li{
     height: 100%;
   }
 
-  .footer1{
-    width: 100%;
+  .footer{
+    width: 1522px;
     height: 100px;
-    height: 432px;
+    height: 363px;
     background-color: #4a4f54;
     color: #fff;
+    float: left;
     
   }
 
+  .fg{
+    width: 100%;
+  }
 
+  .footer2{
+    width: 1522px;
+    height: 40px;
+    background-color: #fff;
+    border-top: 1px solid #e4e8e8;
+    float: left;
+  }
+
+  .inf2{
+    width: 1099px;
+    margin-left: 86px;
+    height: 40px;
+  }
+
+  .inimg{
+    width: 18px;
+    padding-top: 14px;
+  }
+
+  .inf3{
+    height: 50px;
+    width: 60%;
+    margin-left: 12px;
+    margin-bottom: -7px;
+    margin-top: -43px;
+  }
   
