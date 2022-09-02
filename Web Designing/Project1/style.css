@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.timg{
+  width: 10px;
+  height: 100%;
+}
+
 .header{
     width: 100%;
     height: 72px;
