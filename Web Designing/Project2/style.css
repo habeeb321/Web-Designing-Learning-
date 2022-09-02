@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header1{
+    height: 124px;
+    width: 100%;
+}
+
+.himg{
+    height: 61px;
+    padding-top: 13px;
+}
+
+.sub-h1{
+    display: flex;
+    justify-content: center;
+}
+
+.sub-h2{
+    width: 100%;
+    height: 44px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body, p, li{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    color: #333333;
+}
+
+.nav-links li a{
+ text-decoration: none;
+ transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover{
+    text-decoration: underline;
+    color: red;
+    
+}
+
+.nav-links li{
+    display: inline-block;
+    padding: 7px 20px;
+
+}
+
+.simg{
+    width: 22px;
+    height: 100%;
+}
+
+.gimg{
+    width: 21px;
+    height: 100%;
+}
+
+.sub-h3{
+    height: 54px;
+    width: 100%;
+    background-color: #fffdd0;
+    color: #333333;
+    border-top: 1pt solid;
+}
+
+.readmore{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    list-style-type: none;
+    font-weight: 550;
+    letter-spacing: 2px;
+    
+}
+
+
+.readmore li a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+.aimg{
+    width: 14px;
+    height: 14px;
+}
