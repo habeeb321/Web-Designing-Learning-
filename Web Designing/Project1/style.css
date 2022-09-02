@@ -87,7 +87,7 @@ li{
 }
 
 .byo{
-  width: 343px;
+  width: 341px;
   float: left;
   margin-left: 44px;
 }
@@ -225,7 +225,6 @@ li{
     width: 1522px;
     height: 40px;
     background-color: #fff;
-    border-top: 1px solid #e4e8e8;
     float: left;
   }
 
@@ -247,4 +246,22 @@ li{
     margin-bottom: -7px;
     margin-top: -43px;
   }
-  
+
+  .subfooter{
+    width: 1343px;
+    height: 500px;
+    background-color: #fff;
+    border-top-color: #e4e8e8;
+    color: #4a4f54;
+    float: left;
+    margin-top: 12px;
+    padding: 20px 90px;
+    font-size: 11px;
+    border-top: 1px solid;
+    font-family: "AvenirNext","arial","helvetica",sans-serif;
+  }
+
+  .p{
+    margin-top: 22px;
+    letter-spacing: .02rem;
+}
